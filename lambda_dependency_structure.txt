@@ -1,0 +1,5 @@
+<folder_name>/python/lib/<python_version>/site-packages/
+
+exe: lambda_layers/python/lib/python3.7/site-packages/
+
+zipar a partir da pasta "python"
